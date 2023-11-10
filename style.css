@@ -1,0 +1,23 @@
+.alert{
+    text-decoration: none;
+    color: crimson;
+    text-shadow:1px 1px 3px red ;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.images{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+
+}
+.images img{
+    border: 2px solid black;
+    width: 170px;
+    height: 230px;
+    border-radius: 20px;
+    border-color: rgb(231, 162, 106);
+}
